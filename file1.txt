@@ -1,3 +1,6 @@
 I have started learning git
 added some lines 2
 addeded 3rd line
+
+
+wrong lines added
